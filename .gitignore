@@ -1,0 +1,4 @@
+odoo_pg_pass
+config/
+*.pyc
+odoo-fiscalharmony-plugin
